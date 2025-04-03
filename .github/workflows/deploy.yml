@@ -7,7 +7,7 @@ on:
 
 jobs:
   test:
-    name: Test with React Testing Library
+    name: Test with React Testing Library v2
     runs-on: ubuntu-latest
 
     steps:
